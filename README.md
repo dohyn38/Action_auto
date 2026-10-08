@@ -233,3 +233,5 @@ Keep the TMDB logo and the required notice in About & Credits:
 This HTML lecture opens offline with its notes and downloads. Live movie data, account
 registration, initial npm installation and publishing require internet. The API application
 form is account-dependent; the lecture gives labeled examples and links to the actual site.
+
+.
